@@ -8,5 +8,6 @@ $ meson setup build
 $ meson compile -C build
 ```
 ### Game
-[![game.gif](https://i.postimg.cc/Z5kwXpNK/game.gif)](https://postimg.cc/KRN7MKQd)
-
+<p>
+  <img src="https://i.postimg.cc/W1k11Ltw/Game.gif" width=100% weight=100%  />
+<p/>
